@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/franktran/Development/Projects/ChatBot/model.tflearn"
+all_model_checkpoint_paths: "/Users/franktran/Development/Projects/ChatBot/model.tflearn"
